@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html charset = 'utf-8'>
 <head>
-<title>ÁGUA</title>
+<títle>ÁGUA</títle>
 </head>
 <body>
 <strong>Atenção</strong>
@@ -16,7 +16,7 @@
 <p>-Verifique vazamentos</p>
 <p>-Utilize produtos de limpeza apropriados e de qualidade</p>
 <p>-Reutilize a água da chuva</p>
-<title>22 de Março: dia Mundial da água</title>
+<títle>22 de Março: dia Mundial da água</títle>
 <p>A água, sem dúvidas, é um dos bens mais valiosos do nosso planeta, pois é fundamental para a sobrevivência de todos os organismos vivos</p>
 <p>A água é a seiva do nosso planeta. Ela é a condição essencial de vida de todo ser vegetal, animal ou humano</p>
 <p>Por isso é nosso dever <strong>preserva-lá</strong> para que ela não nos falte e comprometa nossa vida</p>
