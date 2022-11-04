@@ -4,7 +4,7 @@
 <títle>ÁGUA</títle>
 </head>
 <body>
-<strong>Atenção</strong>
+<p><strong>Atenção</strong></p>
 <p>A água é um bem essencial. Não desperdice isso</p>
 <link rel="href=" torneira.jpg ">
 <p>Aqui estão algumas dicas para economizar e evitar desperdíçios:</p>
