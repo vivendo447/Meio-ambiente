@@ -6,7 +6,7 @@
 <body>
 <p><strong>Atenção</strong></p>
 <p>A água é um bem essencial. Não desperdice isso</p>
-<link rel="href=" torneira.jpg ">
+<img src= "![image](https://user-images.githubusercontent.com/110610841/201092141-678a3f68-56bf-473e-bcf5-06ec0fd3985e.png)</img src>
 <p>Aqui estão algumas dicas para economizar e evitar desperdíçios:</p>
 <p>-Diminua o tempo no chuveiro</p>
 <p>-Evite lavar a calçada com mangueira</p>
